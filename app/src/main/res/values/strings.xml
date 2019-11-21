@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">OPERACIONES</string>
+    <string name="operaciones">OPERACIONES</string>
+    <string name="suma">SUMA</string>
+    <string name="resta">RESTA</string>
+    <string name="multiplicacion">MULTIPLICACION</string>
+    <string name="divicion">DIVICION</string>
+    <string name="numero_2">NUMERO 2:</string>
+    <string name="resultado">RESULTADO:</string>
+    <string name="textview">TextView</string>
+    <string name="numero_1">NUMERO 1:</string>
+    <string name="division">DIVISION</string>
+</resources>
